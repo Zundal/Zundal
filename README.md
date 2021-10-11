@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)  
 
-[![Solved.ac/profile/zeros003](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 - 🔭 현재 일하고 있는 곳 : 웨인테크놀로지
 - 🌱 요즘 하고있는 공부 : python
