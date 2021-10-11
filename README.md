@@ -2,6 +2,7 @@
 - 🌱 요즘 하고있는 공부 : python
 - 👯 코딩 스터디 그룹 : BrainStorming
 
+방문자  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com). 
 
 프로그래밍 언어  
