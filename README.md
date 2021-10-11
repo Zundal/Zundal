@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)  
+
 - 🔭 현재 일하고 있는 곳 : 웨인테크놀로지
 - 🌱 요즘 하고있는 공부 : python
 - 👯 코딩 스터디 그룹 : BrainStorming
