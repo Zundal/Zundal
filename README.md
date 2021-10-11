@@ -1,7 +1,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)  
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)
+
+
+
+출처: https://heo-seongil.tistory.com/131 [24살]
+
+
 
 - 🔭 현재 일하고 있는 곳 : 웨인테크놀로지
 - 🌱 요즘 하고있는 공부 : python
