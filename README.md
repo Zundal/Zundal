@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Profile
 |category|memo|
-|:---:|:---:|
+|:---|:---:|
 |🔭 Work|웨인테크놀로지|
 |🌱 Learning|python|
 |👯 Study|BrainStorming|
