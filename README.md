@@ -8,7 +8,8 @@
 |🔭 Work|웨인테크놀로지|
 |🌱 Learning|python|
 |👯 Study|BrainStorming|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko) |[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)|
+|Git hub|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)|
+|BoJ|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)|
 
 # 🙆🏻 My Skill
 |category|memo|
