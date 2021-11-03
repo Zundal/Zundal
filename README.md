@@ -5,7 +5,7 @@
 # 🧑🏻‍💻 My Profile 🔰
 |category|memo|
 |:---:|:---:|
-|🔭 Work|웨인테크놀로지|
+|🔭 Work|먼슬리키친
 |🌱 Learning|python|
 |👯 Study|BrainStorming|
 |🐙 Git hub|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)|
