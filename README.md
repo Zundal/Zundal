@@ -6,7 +6,7 @@
 |category|memo|
 |:---:|:---:|
 |🔭 Work|먼슬리키친
-|🌱 Learning|python|
+|🌱 Learning|python, react native, node|
 |👯 Study|BrainStorming|
 |🐙 Git hub|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)|
 |🧗🏻 BoJ|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)|
