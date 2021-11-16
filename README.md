@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Zundal_github&fontSize=90)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)
 # 🧑🏻‍💻 My Profile 🔰
 |category|memo|
 |:---:|:---:|
-|🔭 Work|먼슬리키친
 |🌱 Learning|python, react native, node|
 |👯 Study|BrainStorming|
-|🐙 Git hub|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=merko)|
+|🐙 Git hub||
 |🧗🏻 BoJ|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)|
 
 # 🙆🏻 My Skill
