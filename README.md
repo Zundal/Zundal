@@ -24,3 +24,6 @@
 
 # 🗺 Web developer Road map
 https://github.com/kamranahmedse/developer-roadmap
+
+# 📘 My blog
+https://medium.com/@ajs15010120
