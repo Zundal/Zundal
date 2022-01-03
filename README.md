@@ -12,6 +12,10 @@
 |🧗🏻 BoJ|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)|
 -->
 <!--
+
+# 📘 My blog
+https://medium.com/@ajs15010120
+
 # 🙆🏻 My Skill
 |category|memo|
 |:---:|:---:|
@@ -25,5 +29,3 @@
 # 🗺 Web developer Road map
 https://github.com/kamranahmedse/developer-roadmap
 
-# 📘 My blog
-https://medium.com/@ajs15010120
