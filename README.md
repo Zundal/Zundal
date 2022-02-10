@@ -12,9 +12,11 @@
 |🧗🏻 BoJ|[|
 -->
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)
+![Solved.ac프로필][(http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)](https://solved.ac/zeros003)
+<!--
 # 📘 My blog
 https://medium.com/@ajs15010120
+-->
 
 # 🙆🏻 My Skill
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
