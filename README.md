@@ -7,7 +7,7 @@
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)
 
 
-#I can this
+# I can this. 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
