@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Zundal_github&fontSize=90)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=default)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zundal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)
 
 
-# 🙆🏻 My Skill
+#I can this
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
