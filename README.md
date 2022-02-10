@@ -2,24 +2,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=react)
-<!--
-# 🧑🏻‍💻 My Profile 🔰
-|category|memo|
-|:---:|:---:|
-|🌱 Learning|python, react native, node|
-|👯 Study|BrainStorming|
-|🐙 Git hub||
-|🧗🏻 BoJ|[|
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zundal&layout=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)
-<!--
-(https://solved.ac/zeros003)
--->
-<!--
-# 📘 My blog
-https://medium.com/@ajs15010120
--->
+
 
 # 🙆🏻 My Skill
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
