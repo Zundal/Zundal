@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Zundal_github&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zundal&&show_icons=true&theme=default)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zundal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeros003)
