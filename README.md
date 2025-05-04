@@ -47,4 +47,4 @@ https://translations.launchpad.net/~kokieee-e
 # https://atomic0x90.github.io/markdown/2019/05/24/markdown-Grammar-theorem.html
 -->
 
-[vercel - update 예정](https://view-bgbnc4nru-jeongsik-ans-projects.vercel.app/)
+[vercel - update 예정](https://view-pi.vercel.app/)
